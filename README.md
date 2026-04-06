@@ -2,7 +2,6 @@
 - 👀 I’m interested in playing games (mobile 📱 /pc 💻), watching sports ⚽ ⚾ 🏀, and playing the piano 🎹.
 - 🌱 I’m currently learning how to code using HTML and Javascript.
 - 📫 You can contact me via email (biboyilano777@gmail.com) or at MS Teams (2022jcrilano@live.mcl.edu.ph).
-- ⚠️WARNING, I am not that good at coding.
 
 
 
